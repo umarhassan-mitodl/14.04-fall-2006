@@ -4,6 +4,8 @@ description: This syllabus section provides information on course meeting times,
   the course textbook, grading and requirements, homework assignments, and the course
   calendar.
 draft: false
+hide_download: true
+hide_download_original: null
 title: Syllabus
 uid: de8f574f-95e4-ac58-71e5-47732d7c38e6
 ---

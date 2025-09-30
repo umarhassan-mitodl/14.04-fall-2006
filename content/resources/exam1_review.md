@@ -4,6 +4,8 @@ description: This resource explains WAPM and GARP, Uncertainty Axioms with some 
 file: /courses/14-04-intermediate-microeconomic-theory-fall-2006/0726e54e228467e8be4da5542db3de64_exam1_review.pdf
 file_size: 60258
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

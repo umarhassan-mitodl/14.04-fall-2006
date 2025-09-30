@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides a bibliography of course texts and recommended
   papers.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -29,7 +31,7 @@ Krishna, Vijay. _Auction Theory_. Burlington, MA: Academic Press, 2002. ISBN: 97
 
 Klemperer, Paul. _Auctions: Theory and Practice_. Princeton, NJ: Princeton University Press, 2004. ISBN: 9780691119250.
 
-{{% resource_link "27d503d5-2ae8-4f7a-8b42-eeab285a9d52" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Tirole, Jean. {{% resource_link "27d503d5-2ae8-4f7a-8b42-eeab285a9d52" "_The Theory of Industrial Organization_" %}}. Cambridge, MA: MIT Press, 1988. ISBN: 9780262200714.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262200714) Tirole, Jean. [_The Theory of Industrial Organization_](https://mitpress.mit.edu/9780262200714). Cambridge, MA: MIT Press, 1988. ISBN: 9780262200714.
 
 Recommended Papers
 ------------------

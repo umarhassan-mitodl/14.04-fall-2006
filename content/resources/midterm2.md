@@ -4,6 +4,8 @@ description: This resource contains four questions for the midterm exams.
 file: /courses/14-04-intermediate-microeconomic-theory-fall-2006/d520a4331b89ecfc70e907e5491f855f_midterm2.pdf
 file_size: 60236
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
