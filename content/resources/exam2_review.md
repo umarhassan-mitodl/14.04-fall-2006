@@ -5,8 +5,6 @@ description: This resource contains some graphs containing Walrasian equilibrium
 file: /courses/14-04-intermediate-microeconomic-theory-fall-2006/0c674a491793f05fd2192c96103beb6e_exam2_review.pdf
 file_size: 59204
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,8 +5,6 @@ description: This resource contains seven problem statements to test the student
 file: /courses/14-04-intermediate-microeconomic-theory-fall-2006/30b01930256dcfc2427b5a6d6b5b73d6_ps2.pdf
 file_size: 68193
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

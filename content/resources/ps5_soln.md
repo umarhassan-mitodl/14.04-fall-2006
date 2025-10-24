@@ -4,8 +4,6 @@ description: ''
 file: /courses/14-04-intermediate-microeconomic-theory-fall-2006/308c037d6acae758c161197445809747_ps5_soln.pdf
 file_size: 91298
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

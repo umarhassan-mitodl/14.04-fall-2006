@@ -4,8 +4,6 @@ description: This resource contains solution to the problem set seven.
 file: /courses/14-04-intermediate-microeconomic-theory-fall-2006/000e48f47481e96bdaa3df2286382c73_ps7_soln.pdf
 file_size: 1172896
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

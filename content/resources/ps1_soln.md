@@ -4,8 +4,6 @@ description: This resource contains solution to the problem set one.
 file: /courses/14-04-intermediate-microeconomic-theory-fall-2006/51a0fd46ac214eeb664dc052b89e9c49_ps1_soln.pdf
 file_size: 70275
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
