@@ -29,7 +29,7 @@ Krishna, Vijay. _Auction Theory_. Burlington, MA: Academic Press, 2002. ISBN: 97
 
 Klemperer, Paul. _Auctions: Theory and Practice_. Princeton, NJ: Princeton University Press, 2004. ISBN: 9780691119250.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262200714) Tirole, Jean. [_The Theory of Industrial Organization_](https://mitpress.mit.edu/9780262200714). Cambridge, MA: MIT Press, 1988. ISBN: 9780262200714.
+{{% resource_link "7a3c5870-33d8-4eb7-be08-5b335f8504a9" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Tirole, Jean. {{% resource_link "7a3c5870-33d8-4eb7-be08-5b335f8504a9" "_The Theory of Industrial Organization_" %}}. Cambridge, MA: MIT Press, 1988. ISBN: 9780262200714.
 
 Recommended Papers
 ------------------
